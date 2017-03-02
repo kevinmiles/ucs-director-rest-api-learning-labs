@@ -1,0 +1,33 @@
+{
+    "labId": "ucsd-rest-api-101",
+    "title": "Introductory UCS Director REST API, Custom Tasks and Workflow Creation Part I",
+    "slug": "The objective of this introductory UCS Director REST API learning Lab is to explore the developer resources within UCS Director GUI, to introduce the concept of the REST API Access Key and provide exercises that enable you to retrieve your user's REST API Access Key, query your user profile and update your password via the UCS Director REST API.",
+    "time": "30",
+    "byod": true,
+    "tags": [{
+        "title": "Data Center"
+    }, {
+        "title": "REST"
+    }, {
+        "title": "UCS"
+    }, {
+        "title": "Automation - UCS Director"
+    }],
+    "files": [{
+        "title": "1.md"
+    }, {
+        "title": "2.md"
+    }],
+    "related": [{
+        "labId": "ucsd-rest-api-102",
+        "title": "Introductory UCS Director REST API Part II"
+    },{
+        "labId": "ucsd-rest-api-103",
+        "title": "Introductory UCS Director REST API Part III"
+    }],
+    "authors": [{
+        "name": "John McDonough",
+        "email": "jomcdono@cisco.com"
+    }],
+    "active": true
+}

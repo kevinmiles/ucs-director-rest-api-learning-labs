@@ -1,0 +1,35 @@
+{
+    "labId": "ucsd-rest-api-103",
+    "title": "Introductory UCS Director REST API, Custom Tasks and Workflow Creation Part III",
+    "slug": "The objective of this introductory UCS Director REST API learning lab is to create a custom task that contains JavaScript, use the custom task in a workflow and execute the workflow from the UCS Director interface and from Postman using a UCS Director REST API call.",
+    "time": "30",
+    "byod": true,
+    "tags": [{
+        "title": "Data Center"
+    }, {
+        "title": "REST"
+    }, {
+        "title": "UCS"
+    }, {
+        "title": "Automation - UCS Director"
+    }],
+    "files": [{
+        "title": "1.md"
+    }, {
+        "title": "2.md"
+    }, {
+        "title": "3.md"
+    }],
+    "related": [{
+        "labId": "ucsd-rest-api-101",
+        "title": "Introductory UCS Director REST API Part I"
+    },{
+        "labId": "ucsd-rest-api-102",
+        "title": "Introductory UCS Director REST API Part II"
+    }],
+    "authors": [{
+        "name": "John McDonough",
+        "email": "jomcdono@cisco.com"
+    }],
+    "active": true
+}
