@@ -8,11 +8,14 @@ Contributions are welcome, and we are glad to review changes through pull reques
 
 Once approved, Cisco DevNet reviewers then create a release that is published through our Learning Labs system.
 
-The goal of these learning labs is to ensure a 'hands-on' learning approach rather than just theory or instructions.
 
 ## About these Learning Labs
 
 While there are several programmatic interfaces available for UCS Director, this set of labs focuses on the REST API interface.
+
+The goal of these learning labs is to ensure a 'hands-on' learning approach rather than just theory or instructions.
+
+If you need more help, you can reach out to DevNet through one of our [support options](https://developer.cisco.com/site/devnet/support/).
 
 ## Contributing
 
@@ -34,11 +37,11 @@ A DevNet reviewer then creates a release on the repository with the latest `mast
 #### Editors
 
 You can write Markdown in a plain text editor, but there are many desktop and Web-based options that allow you to write and preview your work at the same time. We recommend Visual Studio Code [Download](https://code.visualstudio.com/) for several reasons:
-- Lightweight environment for coding (or writing Markdown)
-- Available on Mac OS, Linux or Windows
-- Github Client integration
+- Lightweight environment for coding (or writing Markdown).
+- Available on Mac OS, Linux or Windows.
+- Github Client integration.
 - Great Markdown preview features native in the editor
-- Intuitive operation and structure
+- Intuitive operation and structure.
 
 You can validate a JSON file by using the [online formatter and validator](https://jsonformatter.curiousconcept.com).
 
