@@ -52,7 +52,7 @@ A DevNet reviewer then creates a release on the repository with the latest `mast
 
 #### Editors
 
-You can write Markdown in a plain text editor, and desktop and Web-based options allow you to simultaniously write and preview. We recommend Visual Studio Code [Download](https://code.visualstudio.com/) for these reasons:
+You can write Markdown in a plain text editor, and desktop and Web-based options allow you to simultaniously write and preview your work. We recommend Visual Studio Code [Download](https://code.visualstudio.com/) for these reasons:
 - Lightweight environment for coding (or writing Markdown).
 - Available on macOS, Linux, or Windows.
 - Github Client integration.
